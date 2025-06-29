@@ -19,13 +19,13 @@ This project implements and analyzes **Low-Density Parity-Check (LDPC) codes** o
 
 ## References
 
-- NPTEL-NOC IIT Course : LDPC and Polar Codes in 5G Standard by Prof. Andrew Thangraj
+- NPTEL-NOC IIT Course: LDPC and Polar Codes in 5G Standard by Prof. Andrew Thangraj
 - An Introduction to Low-Density Parity-Check Codes by Paul H. Siegel, Electrical and Computer Engineering University of California, San Dieg
 - Introduction to Low-Density Parity Check Codes by Brian Kurkosk
 - CT-216 Introduction to Communication Systems Lecture Slides by Prof. Yash Vasavada, DAIICT Winter 2025
 - Generalized Simplified Variable-Scaled Min Sum LDPC decoder for irregular LDPC Codes
 
-## Group Members 
+## Group Members (Group No.: 25)
 - 202301269 - Bhagya Majithiya     
 - 202301270 - Ashka Pathak        
 - 202301272 - Dhruv Jain           
