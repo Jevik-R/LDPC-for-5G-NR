@@ -1,4 +1,5 @@
 # **LDPC-for-5G-NR** 
+Low-Density Parity-Check codes for 5G New Radio | 
 Mentor : Prof. Yash Vasavda
 
 ## Overview 
